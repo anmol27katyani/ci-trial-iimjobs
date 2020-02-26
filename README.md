@@ -1,3 +1,2 @@
 
-My Own portfolio done by devel branch
-
+My Own portfolio done by devel after nginx
